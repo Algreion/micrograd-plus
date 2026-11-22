@@ -12,7 +12,7 @@ The goal was to implement backpropagation by hand to verify a network built from
 - Save and load: Model weights can be saved to a text file and loaded back, with a check that the layers match.
 
 ## Requirements
-Python 3.12 or newer (nested f-strings). No dependencies needed.
+No dependencies needed.
 
 ## Usage
 ```python
