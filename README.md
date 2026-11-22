@@ -55,5 +55,5 @@ Single-output learns XOR reliably, while multi-output reaches high accuracy but 
 - As the project uses pure Python scalars, it is much slower than specialized tensor libraries.
 - The project focuses on the fundamentals of deep learning, so modern techniques like AdamW or GELU are not implemented.
 
-## Credits
+## Acknowledgements
 The project was based on Andrej Karpathy's [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) lecture, and extends the idea with additional operations and activations, model saving/loading, helper functions, and a XOR demo that trains a network end to end.
